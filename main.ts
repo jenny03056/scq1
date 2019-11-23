@@ -1,0 +1,3 @@
+ScratchMore.startScratchMoreService(function () {
+
+})
